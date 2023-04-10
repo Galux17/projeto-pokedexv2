@@ -1,28 +1,25 @@
-# Projeto Cavaleiros do Zodiaco
-Fiz um carrossel de cards do CDZ.Apenas alguns cards pra testar.
+# Projeto-pokedex
+Projeto de uma pokedex. Feito com HTML,CSS e Javascrypt.
 
-Pode ser que eu faça mais cards, já que eu gostei do projeto 😊😊
 
-##  Link do projeto online:  https://galux17.github.io/projeto-cdz/
+Link do projeto online: https://galux17.github.io/projeto-pokedexv2
 
 
 ## Projeto
-![Animação](https://user-images.githubusercontent.com/103261889/231004977-9929c1ba-5ff6-42ea-ba21-ffe997a700cd.gif)
-
+![Animação Pokedex v2](https://user-images.githubusercontent.com/103261889/231010756-bd83253d-6b6b-49d2-8906-f0e35960f29d.gif)
 
 
 
 ## Finalidade
-Apliquei os conceitos de HTML,CSS e JS no projeto.
+Tentei aplicar os conceitos de HTML,CSS e JS no projeto.
 
 
 
 ## Tecnologias
 
-#### HTML
-#### CSS
-#### JS
+HTML
+CSS
+JS
 
 ## Desafios 
-Fazer a aplicação dos conceitos flex do CSS.
-Menos dessa vez. Mas aprendi bastante.
+Fazer a aplicação dos conceitos flex do CSS.E também tive um trabalho com a parte do JS.
