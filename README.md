@@ -1,7 +1,7 @@
-#  projeto-pokedexv2
-Outra pokedex com outros pokemons. Esse fiz com um planejamento um pouco mais individual
+# Projeto Cavaleiros do Zodiaco
+Fiz um carrossel de cards do CDZ.Apenas alguns cards pra testar.
 
-Fiz com pokemons diferentes apenas por curiosidade.
+Pode ser que eu faça mais cards, já que eu gostei do projeto 😊😊
 
 ##  Link do projeto online:  https://galux17.github.io/projeto-cdz/
 
@@ -24,5 +24,5 @@ Apliquei os conceitos de HTML,CSS e JS no projeto.
 #### JS
 
 ## Desafios 
-Fazer a aplicação dos conceitos flex do CSS.E também tive um trabalho com a parte do JS.
+Fazer a aplicação dos conceitos flex do CSS.
 Menos dessa vez. Mas aprendi bastante.
